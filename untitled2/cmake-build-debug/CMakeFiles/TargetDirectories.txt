@@ -1,0 +1,9 @@
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/zad1.dir
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/zad2.dir
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/zad3.dir
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/zad4.dir
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/cars.dir
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/route.dir
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/cars_manager.dir
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kirilvalkov/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
